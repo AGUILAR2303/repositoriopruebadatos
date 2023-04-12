@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\wamp64\www\Proyecto1\Pry1\Pry1.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/Proyecto1/Pry1/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/Proyecto1/Pry1/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";C:\wamp64\www\Proyecto1\Pry1\NewFile0.php;"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\wamp64\www\Proyecto1\Pry1\TuDestino.php"/>
+  <file name="C:\wamp64\www\Proyecto1\Pry1\Playa.php"/>
+  <file name="C:\wamp64\www\Proyecto1\Pry1\Reservar.php"/>
+  <file name="C:\wamp64\www\Proyecto1\Pry1\DBConexion.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\wamp64\www\Proyecto1\Pry1\Usuario.php" crc="1651474404804"/>
+  <file name="C:\wamp64\www\Proyecto1\Pry1\TuDestino.php" crc="1681257903162"/>
+  <file name="C:\wamp64\www\Proyecto1\Pry1\Reservar.php" crc="1681256892691"/>
+  <file name="C:\wamp64\www\Proyecto1\Pry1\QuienSomos.php" crc="1651474421102"/>
+  <file name="C:\wamp64\www\Proyecto1\Pry1\Políticas.php" crc="1651474656023"/>
+  <file name="C:\wamp64\www\Proyecto1\Pry1\Playa.php" crc="1681258114122"/>
+  <file name="C:\wamp64\www\Proyecto1\Pry1\Montaña.php" crc="1651476674844"/>
+  <file name="C:\wamp64\www\Proyecto1\Pry1\DBConexion.php" crc="1651472208331"/>
+  <file name="C:\wamp64\www\Proyecto1\Pry1\Ciudad.php" crc="1651476755129"/>
+  <file name="C:\wamp64\www\Proyecto1\Pry1\Ayuda.php" crc="1651607197996"/>
+ </filescache>
+</project>

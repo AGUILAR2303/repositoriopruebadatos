@@ -1,0 +1,13 @@
+
+<codestructure version="1.11.1">
+<phptree>
+<treenode node="DBConexion.php;PHP:PHP Include;C:\wamp64\www\Proyecto2\Proyecto\Insertar.php;f15;1;29;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+<treenode node="DBConexion.php;PHP:PHP Include;C:\wamp64\www\Proyecto1\Pry1\Usuario.php;f15;1;29;1;;C:\wamp64\www\Proyecto1\Pry1\Ayuda.php;f15;1;29;1;;C:\wamp64\www\Proyecto1\Pry1\Reservar.php;f15;1;29;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e0;;i0;;o;;k;;l">
+</treenode>
+</phptree>
+<jstree>
+</jstree>
+<pythontree>
+</pythontree>
+</codestructure>
